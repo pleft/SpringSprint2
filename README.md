@@ -9,4 +9,5 @@ This example also shows the two contexts created, one is the rootContext in whic
 
 ### How to run
 run the command: `mvn clean package tomcat7:run`
+
 Accessible through: `http://localhost:8080/SpringSprint2/`
